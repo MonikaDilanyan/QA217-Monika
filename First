@@ -7,6 +7,6 @@
     <item android:state_pressed="true" android:color="?textSelected"/>
     <item app:tsquare_state_current_month="false" android:color="?textDisabled"/>
     <item app:tsquare_state_today="true" android:color="?textSelected"/>
-    <item app:tsquare_state_selectable="false" android:color="?textDisabled" />
-    <item android:color="?textDefault"/>
+   # <item app:tsquare_state_selectable="false" android:color="?textDisabled" />
+   # <item android:color="?textDefault"/>
 </selector>
